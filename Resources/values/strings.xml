@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TV Online Univ for Android TV</string>
+    <string name="loginUserId">UserId</string>
+	<string name="loginPass">Password</string>
+	<string name="loginButton">Login</string>
+	<string name="descripLogin">Write credentials that you can get on your app TV Online Univ</string>
+
+
+
+
+    <string name="should_start">shouldStart</string>
+    <string name="start_position">startPosition</string>
+    <string name="init_text">00:00</string>
+    <string name="failed_to_seek">Failed to seek to the specified position on the remote device</string>
+    <string name="video_error_media_load_timeout">Media loading timed out</string>
+    <string name="video_error_server_unaccessible">Media server was not reachable</string>
+    <string name="video_error_unknown_error">Failed to load video</string>
+</resources>
